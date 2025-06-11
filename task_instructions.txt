@@ -1,0 +1,17 @@
+
+🎯 SIM IT! Data Scientist Simulation – Datawaale Inc.
+
+🧪 Mission: Predict Customer Churn
+
+🕵️‍♀️ Story:
+Your boss Meena Ma’am is panicking. “If we lose more customers, we’ll be dancing in bankruptcy court!”
+You’re the new Data Scientist intern at Datawaale Inc., and she’s just dropped a CSV file on your desk.
+
+📂 Your Tasks:
+1. Clean and preprocess the dataset (missing values, encoding, scaling)
+2. Perform EDA with graphs (correlations, churn rates by segment)
+3. Build a predictive model (Logistic Regression or Decision Tree)
+4. Show performance metrics (accuracy, confusion matrix)
+5. Share a PDF report of your findings with clear visualizations & business insights.
+
+🎯 Bonus: Show churn probability for a random test case and visualize feature importance.
